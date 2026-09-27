@@ -6,12 +6,6 @@ The project focuses on transforming Airbnb data into meaningful business insight
 
 ---
 
-## 📊 Dashboard Preview
-
-![Airbnb Global Performance Dashboard](images/dashboard-overview.png)
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to analyze Airbnb's global marketplace and understand:
