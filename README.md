@@ -4,6 +4,8 @@ An interactive Power BI dashboard designed to analyze Airbnb's global marketplac
 
 The project focuses on transforming Airbnb data into meaningful business insights through data modeling, DAX calculations, interactive visualizations, and dashboard storytelling.
 
+Dataset: https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
 ---
 
 ## 🎯 Project Objective
